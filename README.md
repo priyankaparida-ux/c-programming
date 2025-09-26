@@ -1,2 +1,3 @@
 # c-programming
-Author - Priyanka Parida
+Author - Priyanka btech
+
